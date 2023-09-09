@@ -30,5 +30,11 @@
       "email": "palak@example.com",
       "password": "myp@ss__"
     }
+    {
+      "name": "anu",
+      "age": 11,
+      "email": "palak@gmail.com",
+      "password": "myp@ss5__"
+    }
   ]
 }
