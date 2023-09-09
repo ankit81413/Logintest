@@ -7,10 +7,10 @@
       "password": "secret123"
     },
     {
-      "name": "Alice Smith",
-      "age": 25,
-      "email": "alice@example.com",
-      "password": "passw0rd"
+      "name": "New user",
+      "age": 7,
+      "email": "user@gmail.com",
+      "password": "8117382!£"
     },
     {
       "name": "Bob Johnson",
