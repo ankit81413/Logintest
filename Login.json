@@ -32,6 +32,13 @@
       "phone_number": "563-456-7635",
       "password": "sankiy233",
       "bag": []
+    },
+    {
+      "name": "Charlie",
+      "gender": "Male",
+      "phone_number": "563-456-7635",
+      "password": "sankiy233",
+      "bag": []
     }
   ]
 }
