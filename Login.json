@@ -5,36 +5,8 @@
       "age": 30,
       "email": "john@example.com",
       "password": "secret123"
-    },
-    {
-      "name": "New user",
-      "age": 7,
-      "email": "user@gmail.com",
-      "password": "8117382!£"
-    },
-    {
-      "name": "Bob Johnson",
-      "age": 35,
-      "email": "bob@example.com",
-      "password": "securhPwd"
-    },
-    {
-      "name": "Eve Anderson",
-      "age": 28,
-      "email": "eve@example.com",
-      "password": "mypppppppppp@ss"
     }
-    {
-      "name": "palak",
-      "age": 10,
-      "email": "palak@example.com",
-      "password": "myp@ss__"
-    }
-    {
-      "name": "anu",
-      "age": 11,
-      "email": "palak@gmail.com",
-      "password": "mypppppppppppppppppjjjjjj@ss5__"
-    }
+   
+     
   ]
 }
