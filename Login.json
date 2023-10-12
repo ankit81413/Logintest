@@ -1,19 +1,37 @@
 {
-    "users": [
-      {
-        "name": "Annghvbhv",
-        "gender": "Male",
-        "phone_number": "123-456-7890",
-        "password": "securepassword123",
-        "bag": [12345, 67890, 54321, 98765, 11111]
-      },
-      {
-        "name": "Jane Smith",
-        "gender": "Female",
-        "phone_number": "987-654-3210",
-        "password": "mypassword456",
-        "bag": [55555, 44444, 77777, 99999, 88888]
-      }
-    ]
-  }
-  
+  "users": [
+    {
+      "name": "Annghvbhv",
+      "gender": "Male",
+      "phone_number": "123-456-7890",
+      "password": "securepassword123",
+      "bag": [
+        12345,
+        67890,
+        54321,
+        98765,
+        11111
+      ]
+    },
+    {
+      "name": "Jane Smith",
+      "gender": "Female",
+      "phone_number": "987-654-3210",
+      "password": "mypassword456",
+      "bag": [
+        55555,
+        44444,
+        77777,
+        99999,
+        88888
+      ]
+    },
+    {
+      "name": "Charlie",
+      "gender": "Male",
+      "phone_number": "563-456-7635",
+      "password": "sankiy233",
+      "bag": []
+    }
+  ]
+}
