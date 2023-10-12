@@ -1,7 +1,7 @@
 {
     "users": [
       {
-        "name": "John Doe",
+        "name": "Ankit",
         "gender": "Male",
         "phone_number": "123-456-7890",
         "password": "securepassword123",
