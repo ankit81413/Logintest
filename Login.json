@@ -53,6 +53,13 @@
       "phone_number": "8f3bf26af9a9224dd75bdb1b157d132e9a19b623f74f9a19b7e9f52b3e1d32b6",
       "password": "f23a34fecfc90a6669695a55c63eb8e2561f228b87d88c2f90b5817c868ce18b",
       "bag": []
+    },
+    {
+      "name": "mama",
+      "gender": "male",
+      "phone_number": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "password": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bag": []
     }
   ]
 }
