@@ -46,6 +46,13 @@
       "phone_number": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "password": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "bag": []
+    },
+    {
+      "name": "charlie",
+      "gender": "male",
+      "phone_number": "8c9fb42fd08ac423a97456c302729fd92a87027ebdf3c9a3b830d72195c671e9",
+      "password": "0aa5bd6dd71df5e1dddca9a2ecdbaf7726a4b5f565373c701b057d1edc66a0cb",
+      "bag": []
     }
   ]
 }
