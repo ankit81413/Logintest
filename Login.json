@@ -32,55 +32,6 @@
       "phone_number": "b2da9acdae4966b5944b995ace6aee77e0929cbc02454d88b408520a0ba68599",
       "password": "75287c601fa211afee84e7360aaf31f0c1f2a32397268acafe7627d700f29828",
       "bag": []
-    },
-    {
-      "name": "testname",
-      "gender": "male",
-      "phone_number": "c775e7b757ede630cd0aa1113bd102661ab38829ca52a6422ab782862f268646",
-      "password": "c775e7b757ede630cd0aa1113bd102661ab38829ca52a6422ab782862f268646",
-      "bag": []
-    },
-    {
-      "name": "kamal",
-      "gender": "male",
-      "phone_number": "ac146ab9ebfaf6559ed6457b7cc77e953cb9d2fe81ea8240a2fcc5983a177866",
-      "password": "ac146ab9ebfaf6559ed6457b7cc77e953cb9d2fe81ea8240a2fcc5983a177866",
-      "bag": []
-    },
-    {
-      "name": "rozie",
-      "gender": "female",
-      "phone_number": "8e4971cec8e7752077f02b523700fc2506c6b551307370f6a1131c079f3386ae",
-      "password": "10fba6105e0cd52eea1db01e4150f0086d68734fb639e9846eda9367b40238e0",
-      "bag": []
-    },
-    {
-      "name": "hjkjk",
-      "gender": "male",
-      "phone_number": "ebab0e9f185a13ea8dd0812e71087de54ed510513899d16afab628c80fe7dc57",
-      "password": "dba0796d316bc63708ccae47bdfc155dc1b986ceba16454148879bfa3b06b459",
-      "bag": []
-    },
-    {
-      "name": "sugxu",
-      "gender": "male",
-      "phone_number": "6bd0a10670f6d16dec99c725f9029230a773cbe2920c208bf2fe026c5c9d5ae0",
-      "password": "588e85a09a23b5980f2a12500a192332e2b87fb7fb95c2cb47692bad37da18dc",
-      "bag": []
-    },
-    {
-      "name": "deepakshi",
-      "gender": "male",
-      "phone_number": "3706decc81b009dcba7cb94082ef58bdee479ef41af1024719dff46355b3d2f3",
-      "password": "e053e764feb05f7487e00289c20c4bdd99e4b0cbc8e23d01bb8fe79c5d73e100",
-      "bag": []
-    },
-    {
-      "name": "charlie",
-      "gender": "male",
-      "phone_number": "8c9fb42fd08ac423a97456c302729fd92a87027ebdf3c9a3b830d72195c671e9",
-      "password": "6ce3d9ee0300c5319aee25b4de3597218955bef4b84689dc19bc8722345b4fd4",
-      "bag": []
     }
   ]
 }
