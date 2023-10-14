@@ -39,6 +39,13 @@
       "phone_number": "c775e7b757ede630cd0aa1113bd102661ab38829ca52a6422ab782862f268646",
       "password": "c775e7b757ede630cd0aa1113bd102661ab38829ca52a6422ab782862f268646",
       "bag": []
+    },
+    {
+      "name": "kamal",
+      "gender": "male",
+      "phone_number": "ac146ab9ebfaf6559ed6457b7cc77e953cb9d2fe81ea8240a2fcc5983a177866",
+      "password": "ac146ab9ebfaf6559ed6457b7cc77e953cb9d2fe81ea8240a2fcc5983a177866",
+      "bag": []
     }
   ]
 }
