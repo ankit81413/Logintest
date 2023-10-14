@@ -67,6 +67,13 @@
       "phone_number": "6bd0a10670f6d16dec99c725f9029230a773cbe2920c208bf2fe026c5c9d5ae0",
       "password": "588e85a09a23b5980f2a12500a192332e2b87fb7fb95c2cb47692bad37da18dc",
       "bag": []
+    },
+    {
+      "name": "deepakshi",
+      "gender": "male",
+      "phone_number": "3706decc81b009dcba7cb94082ef58bdee479ef41af1024719dff46355b3d2f3",
+      "password": "e053e764feb05f7487e00289c20c4bdd99e4b0cbc8e23d01bb8fe79c5d73e100",
+      "bag": []
     }
   ]
 }
