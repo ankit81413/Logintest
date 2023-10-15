@@ -34,6 +34,13 @@
       "phone_number": "3706decc81b009dcba7cb94082ef58bdee479ef41af1024719dff46355b3d2f3",
       "password": "75287c601fa211afee84e7360aaf31f0c1f2a32397268acafe7627d700f29828",
       "bag": []
+    },
+    {
+      "name": "Ankit",
+      "gender": "male",
+      "phone_number": "87dab3f1e9c1975965327ed82889255dbe07cda1ba63dde0fa31f8034d26d54c",
+      "password": "332a4daa6f5a66619bf439c57c94f68e84a3fddcca885fefb105a7d36c490f8c",
+      "bag": []
     }
   ]
 }
