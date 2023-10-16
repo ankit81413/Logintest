@@ -41,6 +41,13 @@
       "phone_number": "87dab3f1e9c1975965327ed82889255dbe07cda1ba63dde0fa31f8034d26d54c",
       "password": "332a4daa6f5a66619bf439c57c94f68e84a3fddcca885fefb105a7d36c490f8c",
       "bag": []
+    },
+    {
+      "name": "Amit",
+      "gender": "male",
+      "phone_number": "3538d2776097f4845f4ce7121104b04e93e8a535e2058b9082da2d067f75156e",
+      "password": "a22234f169206f7b4b95c95b400faa193007e13e75d33e51bf5679f73cea8779",
+      "bag": []
     }
   ]
 }
