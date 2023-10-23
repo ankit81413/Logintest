@@ -41,6 +41,13 @@
       "phone_number": "b2da9acdae4966b5944b995ace6aee77e0929cbc02454d88b408520a0ba68599",
       "password": "ae12a6f08e2648b67b99519c95673e0f8a0393005fdb011e5ac6dd9bc1d6f9bf",
       "bag": []
+    },
+    {
+      "name": "Payal",
+      "gender": "female",
+      "phone_number": "17756315ebd47b7110359fc7b168179bf6f2df3646fcc888bc8aa05c78b38ac1",
+      "password": "10a46b44eec2a909860352efde18206be713b828fbaa35dbdae13395412e52bf",
+      "bag": []
     }
   ]
 }
