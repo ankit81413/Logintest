@@ -62,6 +62,13 @@
       "phone_number": "c0d0185c8bd6c246da7f65e7d266f4328b0401a7ebdc5e168b259cf11d6078d0",
       "password": "75287c601fa211afee84e7360aaf31f0c1f2a32397268acafe7627d700f29828",
       "bag": []
+    },
+    {
+      "name": "Sanjana Randi",
+      "gender": "male",
+      "phone_number": "8bbacac96f87bc57bc9da5f0e0b0c0e1ac53f02be32ff2e8e346bc08f1ec0694",
+      "password": "5fccfcc2bc5d995babff5c815e729a15c3c68ca89bd500bce86fb44f313bef70",
+      "bag": []
     }
   ]
 }
