@@ -23,6 +23,13 @@
       "phone_number": "c775e7b757ede630cd0aa1113bd102661ab38829ca52a6422ab782862f268646",
       "password": "0bb9d45d2f7f856f39f2613fab8586351145bbdbd8476560b789d1d709dc76ab",
       "bag": []
+    },
+    {
+      "name": "Parul",
+      "gender": "male",
+      "phone_number": "d1cb866cde7e9e7e6760564b9352618bc9f4f63204023d43a45c1fba43a5d74c",
+      "password": "c0c5adbae111f0411d914d10bc4fbb6f1d60b46fd5177dbbac2df76bfb74cd21",
+      "bag": []
     }
   ]
 }
