@@ -16,6 +16,13 @@
       "phone_number": "8c9fb42fd08ac423a97456c302729fd92a87027ebdf3c9a3b830d72195c671e9",
       "password": "9c566e1a11aa296c3529822dabce7bfcb64822fff7e20cec5b06b786077c8a34",
       "bag": []
+    },
+    {
+      "name": "Ankur",
+      "gender": "male",
+      "phone_number": "c775e7b757ede630cd0aa1113bd102661ab38829ca52a6422ab782862f268646",
+      "password": "0bb9d45d2f7f856f39f2613fab8586351145bbdbd8476560b789d1d709dc76ab",
+      "bag": []
     }
   ]
 }
