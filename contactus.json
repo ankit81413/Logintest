@@ -1,20 +1,4 @@
 {
-  "name": "contactus.json",
-  "path": "contactus.json",
-  "sha": "54ce61dfe3cb1cd97b08facf92a1001777c20b7a",
-  "size": 123,
-  "url": "https://api.github.com/repos/ankit81413/Logintest/contents/contactus.json?ref=main",
-  "html_url": "https://github.com/ankit81413/Logintest/blob/main/contactus.json",
-  "git_url": "https://api.github.com/repos/ankit81413/Logintest/git/blobs/54ce61dfe3cb1cd97b08facf92a1001777c20b7a",
-  "download_url": "https://raw.githubusercontent.com/ankit81413/Logintest/main/contactus.json",
-  "type": "file",
-  "content": "ewogICJyZXNwb25zZXMiOiBbCiAgICB7CiAgICAgICJuYW1lIjogImFua2l0\nIiwKICAgICAgImVtYWlsIjogImFua2l0c2VuODE0MTNAZ21haWwuY29tIiwK\nICAgICAgIm1lc3NhZ2UiOiAidyIKICAgIH0KICBdCn0K\n",
-  "encoding": "base64",
-  "_links": {
-    "self": "https://api.github.com/repos/ankit81413/Logintest/contents/contactus.json?ref=main",
-    "git": "https://api.github.com/repos/ankit81413/Logintest/git/blobs/54ce61dfe3cb1cd97b08facf92a1001777c20b7a",
-    "html": "https://github.com/ankit81413/Logintest/blob/main/contactus.json"
-  },
   "responses": [
     {
       "name": "ankit",
