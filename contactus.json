@@ -1,17 +1,5 @@
-[
-  {
-    "name": "Ankit",
-    "email": "ankit@gmail.com",
-    "message": "This is Ankit's message."
-  },
-  {
-    "name": "Ankur",
-    "email": "ankur@gmail.com",
-    "message": "This is Ankur's message."
-  },
-  {
-    "name": "User3",
-    "email": "user3@example.com",
-    "message": "This is User3's message."
-  }
-]
+{
+  "name": "ankit",
+  "email": "sena81413@gmail.com",
+  "message": "dssc"
+}
