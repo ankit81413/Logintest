@@ -52,6 +52,13 @@
       "bag": [
         "0002"
       ]
+    },
+    {
+      "name": "Geeta",
+      "gender": "female",
+      "phone_number": "9d07939ed2b419c74c481c604d50b6de98bf0b51aaa366ad8d0c60c581155e17",
+      "password": "f3f947af9affe98684e30de1fe1ba81200428d6f70b18951b131ad05e813a169",
+      "bag": []
     }
   ]
 }
